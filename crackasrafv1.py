@@ -394,7 +394,7 @@ logo = ("""
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-\033[1;32mAuther     :asraf ahmed
+\033[1;32mAuther       :asraf ahmed
   \033[1;33mYouTube    :asraf Termux zone
   \033[1;32mFecbook    :rafi ahmed
   \033[1;33mAdmin      :asraf ahmed
